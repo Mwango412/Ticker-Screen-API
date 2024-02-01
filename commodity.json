@@ -1,0 +1,24 @@
+{
+  "commodities": [
+    {
+      "name": "maize",
+      "highest_cost": 10.5,
+      "lowest_cost": 7.2
+    },
+    {
+      "name": "wheat",
+      "highest_cost": 9.8,
+      "lowest_cost": 6.5
+    },
+    {
+      "name": "soybeans",
+      "highest_cost": 12.3,
+      "lowest_cost": 8.7
+    },
+    {
+      "name": "sunflower",
+      "highest_cost": 11.2,
+      "lowest_cost": 7.9
+    }
+  ]
+}
